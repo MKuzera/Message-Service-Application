@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BazyDanychProjekt", "BazyDanychProjekt\BazyDanychProjekt.csproj", "{185E3C37-C198-4A74-94A3-63518AF7FF7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BazyDanychApi", "BazyDanychApi\BazyDanychApi.csproj", "{72CE9C63-7525-4A4B-88B0-0DF7D5B3B28C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{185E3C37-C198-4A74-94A3-63518AF7FF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{185E3C37-C198-4A74-94A3-63518AF7FF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{185E3C37-C198-4A74-94A3-63518AF7FF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{185E3C37-C198-4A74-94A3-63518AF7FF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72CE9C63-7525-4A4B-88B0-0DF7D5B3B28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CE9C63-7525-4A4B-88B0-0DF7D5B3B28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CE9C63-7525-4A4B-88B0-0DF7D5B3B28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CE9C63-7525-4A4B-88B0-0DF7D5B3B28C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
