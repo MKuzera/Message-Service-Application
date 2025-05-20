@@ -9,3 +9,6 @@ The project uses **MongoDB** (hosted in Docker) as a document database and is bu
 - Integration Testing
 - Backend Development
 - Dependency Injection
+
+This project was developed as part of the university course "Advanced Database Architectures".
+
